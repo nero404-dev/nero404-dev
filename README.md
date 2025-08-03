@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Samer Tarhini</h1>
+<h1 align="left">Hello 👋, I'm Nero ~ nero404</h1>
 <h3 align="center">A passionate Front-End Web Developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samertarhini&label=Profile%20views&color=0e75b6&style=flat" alt="samertarhini" /> </p>
+<p align="right"> <img src="https://instagram.fbey14-1.fna.fbcdn.net/v/t51.2885-19/486074053_663573959554169_5475370571723256280_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=instagram.fbey14-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHBwzeC5E9ncHHTy8IwmoYHNNTIJGoe1erSUlSRHNa6qIzmd7J7xl8Qpahq5IDXIlM&_nc_ohc=l_YhkGEu-nYQ7kNvwEwF6Nr&_nc_gid=UtbiOSwGn1pUBHSr8N1AZQ&edm=AGFyKLkBAAAA&ccb=7-5&oh=00_AfTSOM49OkRqtpQKwsM2CJDsO-SPpti2WerTY_eh15Vl0g&oe=68951BFD&_nc_sid=5a0a6d" alt="nero404" /> </p>
 
 - 🔭 I’m currently working on **modern, responsive web apps**
 
-- 🌱 I’m currently learning **advanced JavaScript & UI/UX design**
+- 🌱 Learning *advanced* **JavaScript & UI/UX** *design*
 
 - 👯 I’m looking to collaborate on **frontend projects, design revamps, or personal websites**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, responsive design, and Firebase**
+- 💬 Ask me about **HTML, CSS, JavaScript, responsive design, and Firebase Back-End**
 
-- 📫 How to reach me **[samertarhini@example.com](mailto:samertarhini@example.com)**
+- 📫 How to reach me **[nero404.developer@gmail.com](mailto:nero404.developer@gmail.com)**
 
-- ⚡ Fun fact: *I code with emotion and precision — like Batman with a keyboard*
+- ⚡ Fun fact: *I code with emotion and precision — like* **The Batman | The Dark Knight** *with a keyboard* 🦇
 
 ---
 
@@ -39,22 +39,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samertarhini&show_icons=true&locale=en" alt="samertarhini" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samertarhini" alt="samertarhini" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/samertarhini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:samertarhini@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
-  <a href="https://instagram.com/samertarhini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/nero-dev-nero404/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:nero404.developer@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/nero404_dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
 </p>
