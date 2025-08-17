@@ -1,6 +1,8 @@
 <h1 align="left">Hello 👋, I'm Nero ~ nero404</h1>
 <h3 align="center">A passionate Front-End Web Developer from Lebanon</h3>
 
+<br>
+
 - 🔭 I’m currently working on **modern, responsive web apps**
 
 - Learning *advanced* **JavaScript & UI/UX** *design*
