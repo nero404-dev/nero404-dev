@@ -1,8 +1,6 @@
 <h1 align="left">Hello 👋, I'm Nero ~ nero404</h1>
 <h3 align="center">A passionate Front-End Web Developer from Lebanon</h3>
 
-<p align="right"> <img src="https://instagram.fbey14-1.fna.fbcdn.net/v/t51.2885-19/486074053_663573959554169_5475370571723256280_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=instagram.fbey14-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QHBwzeC5E9ncHHTy8IwmoYHNNTIJGoe1erSUlSRHNa6qIzmd7J7xl8Qpahq5IDXIlM&_nc_ohc=l_YhkGEu-nYQ7kNvwEwF6Nr&_nc_gid=UtbiOSwGn1pUBHSr8N1AZQ&edm=AGFyKLkBAAAA&ccb=7-5&oh=00_AfTSOM49OkRqtpQKwsM2CJDsO-SPpti2WerTY_eh15Vl0g&oe=68951BFD&_nc_sid=5a0a6d" alt="nero404" /> </p>
-
 - 🔭 I’m currently working on **modern, responsive web apps**
 
 - Learning *advanced* **JavaScript & UI/UX** *design*
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **[nero404.developer@gmail.com](mailto:nero404.developer@gmail.com)**
 
-- ⚡ Fun fact: *I code with emotion and precision — like* **The Batman | The Dark Knight** *with a keyboard* 🦇
+- ⚡ Fun fact: *I code with emotion and precision — like* **The Batman** *with a keyboard* 🦇
 
 ---
 
